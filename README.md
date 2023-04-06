@@ -1,0 +1,2 @@
+# VanillaJsCalculator
+A basic calculator
