@@ -1,0 +1,24 @@
+{
+  "name": "vanillajscalculator",
+  "version": "1.0.0",
+  "description": "A basic calculator",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --target es2016 --outDir ./dist/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalmishra3141005/VanillaJsCalculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalmishra3141005/VanillaJsCalculator/issues"
+  },
+  "homepage": "https://github.com/vishalmishra3141005/VanillaJsCalculator#readme",
+  "dependencies": {
+    "typescript": "^5.0.3"
+  }
+}
